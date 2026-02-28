@@ -1,0 +1,12 @@
+# Ignore large data files
+*.csv
+*.zip
+*.xlsx
+
+# Ignore Jupyter internals
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignore local environment files
+.env
+venv/
